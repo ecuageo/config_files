@@ -1,0 +1,8 @@
+#! /bin/bash
+
+cp ~/.tmux.conf .
+cp ~/.vimrc .
+cp ~/.bashrc .
+cp ~/.bash_profile
+cp ~/.irbrc .
+cp ~/.rdebugrc .
